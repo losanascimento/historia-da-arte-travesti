@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(253, 253, 253);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #693322;
+    margin: 0%;
+    text-align: center;
+    justify-content: center;
+    }
+
+    img{
+       width: 400px; 
+    }
+
+    .textinho {
+    
+    }
+    
+    
+    .listabarra {
+        display: flex;
+        color: beige;
+        width: 100%;
+        justify-content: space-around;
+        font-size: 1.5rem;
+        font-weight: 900;
+    }
+    
+    .barra {
+        background-color: #693322;
+        padding: 5px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .menuitem a {
+        color: beige;
+        text-decoration: none;
+    
+    }
+    
+
+    .rodape {
+        margin-top: 100px;
+        background-color: #693322;
+        color: beige;
+        padding: 20px;
+        position: relative;
+    }
+    
+    .redes {
+        display: flex;
+        justify-content: right;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 15%;
+        justify-content: space-around;
+    }
+    
+    .icon {
+        width: 55px;
+    }
+    
+    ul {
+        text-align: center;
+        list-style-type: none;
+        }
