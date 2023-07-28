@@ -3,8 +3,7 @@
 
 ### Quem é a Losa Nascimento? 
  
-
- HABLAR UM POUCO SOBRE VOCÊ E MUDAR PARA O SEU INSTAGRAM
+Estudante de artes se aventurando pelo mundo da programação e se encontrando novammente em novos caminhos, assim potencializando seus conhecimentos e harmonia no percurso da vida.
 
 #### Contatos
 
@@ -64,6 +63,6 @@ Siga os passos e inclua as informações abaixo:
 ## Citação e Agradecimento 
 
 
-Por fim, quero agradecer a mim mesma por acreditar, insistir e confiar no processo. Meu primeiro curso onde fiz questão de não faltar nenhuma aula e me dedicar 100% em tudo, a prova tá aí! Obrigada, meninas! Obrigada, Reprograma!
+Muito obrigada para todas que me ajudaram e permanneceram nesse acolhimento ao longo do curso e muito obrigada ao Reprograma por esse incrível projeto social e de grande impacto na vida de diversas mulheres. 
 
-Luna <3 
+Luna, você é uma deusa e saiba que lembrarei de você. <3 
